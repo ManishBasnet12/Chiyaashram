@@ -32,7 +32,7 @@ export default function Hero() {
         <p className="text-orange-100 mb-8 text-xl font-light">
           <MapPin className="inline-block mr-2 text-orange-400" size={16} />
           Experience authentic Nepali tea culture in a cozy tea house located in
-          chasal Kathmandu, Nepal
+          Chyasal Kathmandu, Nepal
         </p>
 
         {/* Buttons */}
